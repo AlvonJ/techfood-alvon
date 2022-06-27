@@ -1,6 +1,4 @@
-# Techfood-Alvon
-Hello this is my first project website about food.
-
-Hope you all can enjoy it :)
+# Techfood-Alvon (FRONT-END)
+Techfood is website for ordering healthy food.
 
 https://techfood-alvon.netlify.app
